@@ -4,4 +4,8 @@ public class SomeProgram {
 System.out.println("We will be Git experts, soon.");
 
     }
+
+    public void manageRockets(){
+        System.out.println("10, ..., 9");
+    }
 }
